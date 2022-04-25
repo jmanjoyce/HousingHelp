@@ -1,0 +1,20 @@
+Time: 2022-04-21 20:30:15.573836
+Number of 1 person Blocks: 37
+Number of 2 person Blocks: 19
+Number of 3 person Blocks: 8
+Number of 4 person Blocks: 41
+Number of 5 person Blocks: 2
+Number of 6 person Blocks: 0
+Number of 7 person Blocks: 0
+Number of 8 person Blocks: 7
+
+Number of 1 person Blocks left to pick before 106: 9
+Number of 2 person Blocks left to pick before 106: 5
+Number of 3 person Blocks left to pick before 106: 3
+Number of 4 person Blocks left to pick before 106: 6
+Number of 5 person Blocks left to pick before 106: 0
+Number of 6 person Blocks left to pick before 106: 0
+Number of 7 person Blocks left to pick before 106: 0
+Number of 8 person Blocks left to pick before 106: 1
+
+Number of Coles towers quad left not on second floor: 5
